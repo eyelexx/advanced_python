@@ -1,1 +1,1 @@
-# advanced_python
+Some advanced python exercises.
